@@ -1,5 +1,5 @@
 
-![Logo](static/brand/logo.png =100x20)
+<img src="drawing.jpg" alt="drawing" width="150" height="150"/>
 
 
 # WineClassifier Pro!
