@@ -9,9 +9,9 @@ In this project, I tackled a classification problem using wine data , aiming to 
 
 ## Snapshots 
 
-<img src="deployment screenshot/index page-1.png" alt="logo" width="300" height="300"/>
-<img src="deployment screenshot/index page-2.png" alt="logo" width="300" height="300"/>
-<img src="deployment screenshot/predict form.png" alt="logo" width="300" height="300"/>
-<img src="deployment screenshot/result data.png" alt="logo" width="300" height="300"/>
+<img src="deployment screenshot/index page-1.png" alt="logo" width="500" height="500"/>
+<img src="deployment screenshot/index page-2.png" alt="logo" width="500" height="500"/>
+<img src="deployment screenshot/predict form.png" alt="logo" width="500" height="500"/>
+<img src="deployment screenshot/result data.png" alt="logo" width="500" height="500"/>
 
 
