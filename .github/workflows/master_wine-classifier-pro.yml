@@ -2,7 +2,7 @@
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 # More info on Python, GitHub Actions, and Azure App Service: https://aka.ms/python-webapps-actions
 
-name: Build and deploy Python app to Azure Web App - wineclassifierpro
+name: Build and deploy Python app to Azure Web App - wine-classifier-pro
 
 on:
   push:
@@ -65,14 +65,14 @@ jobs:
       - name: Login to Azure
         uses: azure/login@v1
         with:
-          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_C5516DFE85044BF79C67F5CC774D3AFF }}
-          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_D57E07BFFDC044A39A15F0FE09ED0817 }}
-          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_BED6038B635F451A823CD109ABFE46E5 }}
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_C3FBA0A0B7954E93958C0254400E44E3 }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_5CE11800F8BC474BB6EA187BEEF039D6 }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_AA194044D0B64956A766AF4DD1CDAF4B }}
 
       - name: 'Deploy to Azure Web App'
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'wineclassifierpro'
+          app-name: 'wine-classifier-pro'
           slot-name: 'Production'
           
