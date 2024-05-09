@@ -9,6 +9,11 @@ In this project, I tackled a classification problem using wine data , aiming to 
 
 ## Snapshots 
 
+<img src="deployment screenshot/index page-1.png" alt="logo" width="150" height="150"/>
+<img src="deployment screenshot/index page-2.png" alt="logo" width="150" height="150"/>
+<img src="deployment screenshot/predict form.png" alt="logo" width="150" height="150"/>
+<img src="deployment screenshot/result data.png" alt="logo" width="150" height="150"/>
+
 ![App Screenshot](deployment screenshot/index page-1.png)
 ![App Screenshot](deployment screenshot/index page-2.png)
 ![App Screenshot](deployment screenshot/predict form.png)
