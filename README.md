@@ -1,5 +1,5 @@
 
-<img src="static/brand/logo.png" alt="drawing" width="150" height="150"/>
+<img src="static/brand/logo.png" alt="logo" width="150" height="150"/>
 
 
 # WineClassifier Pro!
@@ -9,5 +9,8 @@ In this project, I tackled a classification problem using wine data , aiming to 
 
 ## Snapshots 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](deployment screenshot/index page-1.png)
+![App Screenshot](deployment screenshot/index page-2.png)
+![App Screenshot](deployment screenshot/predict form.png)
+![App Screenshot](deployment screenshot/result data.png)
 
