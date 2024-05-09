@@ -1,5 +1,5 @@
 
-![Logo](static/brand/logo.png/)
+![Logo](static/brand/logo.png/ =100x20)
 
 
 # WineClassifier Pro!
