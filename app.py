@@ -58,6 +58,8 @@ def predict_api():
     response = [{'model': item[0], 'prediction class': float(item[1])} for item in predicted_data]
     return jsonify(response)
 
-    
+
+'''    
 if __name__ == '__main__':
     app.run(debug=True)
+'''
