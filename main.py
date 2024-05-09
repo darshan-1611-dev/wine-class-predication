@@ -33,7 +33,6 @@ def predict():
     features = [(x) for x in request.form.values()]
     f_features = [np.array(features)]
 
-    print(f_features)
     # make predication with multiple model
     predicted_data = pred.process_data(f_features)
     
